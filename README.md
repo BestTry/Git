@@ -1,1 +1,1 @@
-# Git - Holds my lastest information using the Git Version Control application with GitHub
+# GitHub Location - Holds my lastest Git information using the Git Version Control application within GitHub
